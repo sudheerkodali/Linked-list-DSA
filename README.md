@@ -8,11 +8,9 @@ Linked-list-java script
 | 3   | [Inserting-at-the-front](#)                                                                                                                                             |
 | 4   | [Inserting-at-the-front-Implementation](#)                                                                                                                              |
 | 5   | [Iterate-over-linked-list](#)                                                                                                                                           |
-| 6   | [Delete-at-front](#) 
-|
+| 6   | [Delete-at-front](#)                                                                                                                                                    |
 | 7   | [Delete-at-front-Implementation](#)                                                                                                                                     |
-| 8   | [Delete-at-end](#)  
-|
+| 8   | [Delete-at-end](#)                                                                                                                                                      |
 | 9   | [Delete-at-end-implementation](#)                                                                                                                                       |
 | 10  | [Linked-list-Implementation](#)                                                                                                                                         |
 | 11  | [Insert-at-the-end](#)                                                                                                                                                  |
